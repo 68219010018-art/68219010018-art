@@ -23,11 +23,10 @@
 
 | หมวดหมู่ (Category) | ทักษะและความสามารถ (Skills & Tools) |
 | :--- | :--- |
-| **Languages** | `Python` `JavaScript` `TypeScript` `SQL` `HTML/CSS` |
-| **Frameworks** | `React` `Node.js` `Next.js` `Express` `TailwindCSS` |
-| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `Redis` |
-| **Cloud & DevOps** | `AWS` `Docker` `Kubernetes` `CI/CD` `Git` |
-| **Soft Skills** | `Leadership` `Problem Solving` `Agile/Scrum` `Communication` |
+| **Languages** | `Python` `SQL` `HTML/CSS` |
+| **Frameworks** |  `Express`  |
+| **Databases** | `PostgreSQL` `MySQL`  |
+| **Cloud & DevOps** | `Git` |
 
 ---
 <div align="center">
