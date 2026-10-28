@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 # [นางสาวอโนมา รอดหมวด]
-### **[ตำแหน่งงานที่คุณทำ หรือเป้าหมายอาชีพ เช่น: Senior Software Engineer / Data Scientist / Business Analyst]**
+
 
 📍 [Krabi Town, Thiland] | ✉️ [6819010018@kbtc.ac.th] | 📞 [0934856898]
 
