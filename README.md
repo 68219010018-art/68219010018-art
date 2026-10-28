@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# [ชื่อ-นามสกุล ของคุณ]
+# [นางสาวอโนมา รอดหมวด]
 ### **[ตำแหน่งงานที่คุณทำ หรือเป้าหมายอาชีพ เช่น: Senior Software Engineer / Data Scientist / Business Analyst]**
 
-📍 [เมือง, ประเทศ] | ✉️ [อีเมลของคุณ] | 📞 [เบอร์โทรศัพท์ (ถ้าต้องการใส)]
+📍 [Krabi Town, Thiland] | ✉️ [6819010018@kbtc.ac.th] | 📞 [0934856898]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
